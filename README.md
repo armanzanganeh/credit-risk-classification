@@ -76,4 +76,8 @@ cd credit-risk-classification
 pip install -r requirements.txt
 jupyter notebook
 ```
-Download the dataset from Kaggle (link above, too large for this repo), then open `Credit_Risk_Assessment.ipynb` and run all cells. MICE imputation is
+Download the dataset from Kaggle (link above, too large for this repo), then open `Credit_Risk_Assessment.ipynb` and run all cells. MICE imputation is memory-heavy, so it was run in chunks.
+
+## Author
+**Arman Zanganeh**, MSc Data Science, Università degli Studi di Napoli "Federico II"
+[LinkedIn](https://linkedin.com/in/arman-zanganeh2000) · [GitHub](https://github.com/armanzanganeh)
